@@ -1,0 +1,78 @@
+.leftside {
+    color: white;
+    background-color: rgba(0,3,16,255);
+}
+
+.magic {
+    color: aqua;
+    padding-left: 10px;
+}
+
+.discountbox {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    border-radius: 6px;
+    background-color: rgb(23, 113, 248);
+    font-weight: 500;
+   margin-top: 100px;
+   width: 350px;
+}
+
+/* .discounttext {
+    padding-right: 20px;
+} */
+
+.thenext {
+    font-weight: 600;
+    font-size: 80px;
+}
+
+.generation {
+    font-weight: 600;
+    font-size: 80px;
+}
+
+.getandicon {
+    display: flex;
+    align-items: center;
+    color: red;
+   gap: 2px;
+}
+
+.circle {
+    border: 1px solid aqua;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    align-items: center;
+}
+
+.getandstarted {
+    margin: 50px;
+    color: aqua;
+    font-size: 20px;
+}
+
+.get {
+    color: aqua;
+}
+
+.nextgenandcircle {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+.magicanddiscount{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    margin: 10px 20px;
+}
+.generation{
+    color: aqua;
+}
+.lorems{
+    font-weight: 600;
+    padding-top: 40px;
+}

@@ -1,0 +1,23 @@
+.mainfooterbox{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(0,3,16,255);
+    padding: 40px;
+}
+.useractivebox{
+    display: flex;
+    gap: 5px;
+   align-items: center;
+    font-weight: 600;
+    justify-content: center;
+
+}
+.num{
+    font-size: 40px;
+    color: white;
+}
+.useractive{
+    font-size: 20px;
+    color: aqua;
+    padding-top: 8px;
+}
